@@ -1,0 +1,30 @@
+canvas {
+  background-color: lavender;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+html, body {
+  width:  100%;
+  height: 100%;
+  margin: 0px;
+}
+
+#text {
+  position:absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  padding-left: 100px;
+  padding-top: 200px;
+  font-family: monospace;
+  color: blueviolet;
+  font-stretch: ultra-expanded;
+  font-variant: full-width;
+}
+
+h1 {
+  font-size: 50px;
+}
